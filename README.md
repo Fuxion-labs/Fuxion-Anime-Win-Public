@@ -4,7 +4,7 @@
 
 <br>
 
-[![Version](https://img.shields.io/badge/version-v1.0.1-8E3FD8?style=for-the-badge)](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.1)
+[![Version](https://img.shields.io/badge/version-v1.0.2-8E3FD8?style=for-the-badge)](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.2)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](#-system-requirements)
 [![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](#-built-with)
 [![Avalonia UI](https://img.shields.io/badge/Avalonia%20UI-12-8B44AC?style=for-the-badge)](#-built-with)
