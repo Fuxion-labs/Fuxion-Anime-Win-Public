@@ -58,8 +58,8 @@
 
 ## 📦 Installation
 
-1. Open the **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases)** page and pick **[v1.0.1](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.1)**, or press the **Download** button above.
-2. Download **`FuxionAnime-Setup-1.0.1.exe`**.
+1. Open the **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases)** page and pick **[v1.0.*](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.2)**, or press the **Download** button above.
+2. Download **`FuxionAnime-Setup-1.0.*.exe`**.
 3. Run the installer. Windows SmartScreen may say *"Windows protected your PC"* because the installer is not code-signed yet: click **More info → Run anyway**.
 4. Choose your language (English / Русский) and click **Install**. No administrator rights are required: the app installs into your user profile.
 5. Launch **Fuxion Anime** and sign up (e-mail code, Google, Discord or Telegram) or sign in.
@@ -290,8 +290,8 @@ Yes, it is in development. News will be posted on the website and in our communi
 
 ## 📦 Установка
 
-1. Откройте страницу **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases)** и выберите **[v1.0.1](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.1)**, либо нажмите кнопку **Download** выше.
-2. Скачайте **`FuxionAnime-Setup-1.0.1.exe`**.
+1. Откройте страницу **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases)** и выберите **[v1.0.*](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.2)**, либо нажмите кнопку **Download** выше.
+2. Скачайте **`FuxionAnime-Setup-1.0.*.exe`**.
 3. Запустите установщик. Windows SmartScreen может показать «Система Windows защитила ваш компьютер»: установщик пока не подписан цифровой подписью. Нажмите **Подробнее → Выполнить в любом случае**.
 4. Выберите язык (English / Русский) и нажмите **Установить**. Права администратора не нужны: приложение ставится в профиль пользователя.
 5. Запустите **Fuxion Anime**, зарегистрируйтесь (код на почту, Google, Discord или Telegram) или войдите.
