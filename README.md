@@ -4,7 +4,7 @@
 
 <br>
 
-[![Version](https://img.shields.io/badge/version-v1.0.2-8E3FD8?style=for-the-badge)](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.2)
+[![Version](https://img.shields.io/badge/version-v1.0.3-8E3FD8?style=for-the-badge)](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.3)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](#-system-requirements)
 [![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](#-built-with)
 [![Avalonia UI](https://img.shields.io/badge/Avalonia%20UI-12-8B44AC?style=for-the-badge)](#-built-with)
@@ -20,8 +20,8 @@
 
 <br>
 
-[![Download](https://img.shields.io/badge/Download-v1.0.2%20for%20Windows-8E3FD8?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/download/v1.0.2/FuxionAnime-Setup-1.0.2.exe)
-[![Website](https://img.shields.io/badge/Website-fuxion.stream-C77DFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fuxion.stream)
+[![Download](https://img.shields.io/badge/Download-v1.0.3%20for%20Windows-8E3FD8?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/download/v1.0.3/FuxionAnime-Setup-1.0.3.exe)
+[![Website](https://img.shields.io/badge/Website-fuxion.stream-C77DFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.fuxion.stream)
 [![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jmxarTgCAK)
 [![Telegram](https://img.shields.io/badge/Telegram-FuxionDev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FuxionDev)
 
@@ -58,7 +58,7 @@
 
 ## 📦 Installation
 
-1. Open the **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases)** page and pick **[v1.0.*](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.2)**, or press the **Download** button above.
+1. Open the **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases)** page and pick **[v1.0.*](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.3)**, or press the **Download** button above.
 2. Download **`FuxionAnime-Setup-1.0.*.exe`**.
 3. Run the installer. Windows SmartScreen may say *"Windows protected your PC"* because the installer is not code-signed yet: click **More info → Run anyway**.
 4. Choose your language (English / Русский) and click **Install**. No administrator rights are required: the app installs into your user profile.
@@ -154,7 +154,7 @@
 - **Premium+** adds a **custom text tag** and **animated nickname styles** (RGB, neon, fire, ocean, aurora, gold).
 - **Supporter** status and a **supporters leaderboard** for people who donate to the project (anonymous donations supported).
 - Your style is visible everywhere: profile, comments, reviews and leaderboards.
-- Pay with **crypto**; promo codes and discounts are supported.
+- Pay with **crypto** in the app or in your account on the website; promo codes and discounts are supported.
 - Premium never restricts content, quality, downloads or features of the player.
 
 </details>
@@ -189,6 +189,7 @@
 - On install/uninstall the app sends an **anonymous counter**: a random install ID, the app version and the platform. No name, e-mail, IP-based profile or hardware identifiers.
 - Account data (username, lists, comments, messages, customization) is stored on Fuxion servers **only for registered accounts**.
 - Fuxion does **not host or distribute video**.
+- Legal documents: [Terms of Service](https://www.fuxion.stream/en/terms) and [Privacy Policy](https://www.fuxion.stream/en/privacy); both are also linked inside the app (sign-in screen and Settings → Account).
 
 > [!IMPORTANT]
 > **Content disclaimer.** Fuxion Anime is a client application. Catalog metadata is provided by third-party services such as Shikimori and AniList, and video streams are provided by third-party sources under their own terms and the laws of your country. Fuxion Labs is not affiliated with these services, nor with Discord, Telegram, Google or Reddit; all trademarks belong to their respective owners. If you are a rights holder and have a concern, contact us in our [Telegram](https://t.me/FuxionDev).
@@ -209,7 +210,7 @@ Yes. The app is free to download and use. Premium, Premium+ and donations are op
 
 <br>
 
-The installer is not code-signed yet (a signing certificate is paid), so SmartScreen shows a warning for new software. Download only from this page or from <a href="https://fuxion.stream">fuxion.stream</a>, then choose *More info → Run anyway*.
+The installer is not code-signed yet (a signing certificate is paid), so SmartScreen shows a warning for new software. Download only from this page or from <a href="https://www.fuxion.stream">fuxion.stream</a>, then choose *More info → Run anyway*.
 
 </details>
 
@@ -246,7 +247,7 @@ Yes, it is in development. News will be posted on the website and in our communi
 
 ## 💬 Community
 
-[![Website](https://img.shields.io/badge/fuxion.stream-C77DFF?style=flat-square&logo=googlechrome&logoColor=white)](https://fuxion.stream)
+[![Website](https://img.shields.io/badge/fuxion.stream-C77DFF?style=flat-square&logo=googlechrome&logoColor=white)](https://www.fuxion.stream)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/jmxarTgCAK)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/FuxionDev)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/FuxionDev/)
@@ -290,7 +291,7 @@ Yes, it is in development. News will be posted on the website and in our communi
 
 ## 📦 Установка
 
-1. Откройте страницу **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases)** и выберите **[v1.0.*](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.2)**, либо нажмите кнопку **Download** выше.
+1. Откройте страницу **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases)** и выберите **[v1.0.*](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.3)**, либо нажмите кнопку **Download** выше.
 2. Скачайте **`FuxionAnime-Setup-1.0.*.exe`**.
 3. Запустите установщик. Windows SmartScreen может показать «Система Windows защитила ваш компьютер»: установщик пока не подписан цифровой подписью. Нажмите **Подробнее → Выполнить в любом случае**.
 4. Выберите язык (English / Русский) и нажмите **Установить**. Права администратора не нужны: приложение ставится в профиль пользователя.
@@ -386,7 +387,7 @@ Yes, it is in development. News will be posted on the website and in our communi
 - **Premium+** добавляет **свой текстовый тег** и **анимированные стили ника** (RGB, неон, огонь, океан, аврора, золото).
 - Статус **Supporter** и **топ саппортеров** для тех, кто поддерживает проект донатами (можно анонимно).
 - Ваше оформление видно везде: профиль, комментарии, отзывы и рейтинги.
-- Оплата **криптовалютой**; поддерживаются промокоды и скидки.
+- Оплата **криптовалютой** в приложении или в личном кабинете на сайте; поддерживаются промокоды и скидки.
 - Premium никогда не ограничивает контент, качество, загрузки и возможности плеера.
 
 </details>
@@ -421,6 +422,7 @@ Yes, it is in development. News will be posted on the website and in our communi
 - При установке и удалении приложение отправляет **анонимный счётчик**: случайный идентификатор установки, версию приложения и платформу. Без имени, почты, профиля по IP и идентификаторов оборудования.
 - Данные аккаунта (ник, списки, комментарии, сообщения, оформление) хранятся на серверах Fuxion **только у зарегистрированных пользователей**.
 - Fuxion **не хранит и не распространяет видео**.
+- Документы: [Условия использования](https://www.fuxion.stream/ru/terms) и [Политика конфиденциальности](https://www.fuxion.stream/ru/privacy); ссылки на них есть и в самом приложении (экран входа и Настройки → Аккаунт).
 
 > [!IMPORTANT]
 > **Об источниках контента.** Fuxion Anime — клиентское приложение. Описания и каталог предоставляют сторонние сервисы (например, Shikimori и AniList), а видеопотоки предоставляют сторонние источники на своих условиях и по законам вашей страны. Fuxion Labs не связана с этими сервисами, а также с Discord, Telegram, Google и Reddit; все товарные знаки принадлежат их владельцам. Если вы правообладатель и у вас есть вопрос, напишите нам в [Telegram](https://t.me/FuxionDev).
@@ -441,7 +443,7 @@ Yes, it is in development. News will be posted on the website and in our communi
 
 <br>
 
-Установщик пока не подписан цифровой подписью (сертификат платный), поэтому SmartScreen предупреждает о новом ПО. Скачивайте только с этой страницы или с <a href="https://fuxion.stream">fuxion.stream</a>, затем выберите *Подробнее → Выполнить в любом случае*.
+Установщик пока не подписан цифровой подписью (сертификат платный), поэтому SmartScreen предупреждает о новом ПО. Скачивайте только с этой страницы или с <a href="https://www.fuxion.stream">fuxion.stream</a>, затем выберите *Подробнее → Выполнить в любом случае*.
 
 </details>
 
@@ -478,7 +480,7 @@ Yes, it is in development. News will be posted on the website and in our communi
 
 ## 💬 Сообщество
 
-[![Сайт](https://img.shields.io/badge/fuxion.stream-C77DFF?style=flat-square&logo=googlechrome&logoColor=white)](https://fuxion.stream)
+[![Сайт](https://img.shields.io/badge/fuxion.stream-C77DFF?style=flat-square&logo=googlechrome&logoColor=white)](https://www.fuxion.stream)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/jmxarTgCAK)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/FuxionDev)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/FuxionDev/)
