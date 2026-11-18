@@ -230,17 +230,6 @@ The app checks for a new version on start and every few hours. When one is avail
 
 App data lives in <code>%LOCALAPPDATA%\Fuxion</code>. Downloads go to the folder you choose in *Settings → Downloads*.
 
-</details>
-
-<details>
-<summary><b>Will there be an Android version?</b></summary>
-
-<br>
-
-Yes, it is in development. News will be posted on the website and in our community.
-
-</details>
-
 ## 🧱 Built with
 
 **C# / .NET 10** · **Avalonia UI 12** (MVVM) · **LibVLCSharp** · Refit · Serilog · Inno Setup
@@ -462,15 +451,6 @@ Yes, it is in development. News will be posted on the website and in our communi
 <br>
 
 Данные приложения: <code>%LOCALAPPDATA%\Fuxion</code>. Загрузки идут в папку, которую вы выбираете в *Настройки → Загрузки*.
-
-</details>
-
-<details>
-<summary><b>Будет ли версия для Android?</b></summary>
-
-<br>
-
-Да, она в разработке. Новости будут на сайте и в нашем сообществе.
 
 </details>
 
