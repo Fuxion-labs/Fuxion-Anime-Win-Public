@@ -4,7 +4,7 @@
 
 <br>
 
-[![Version](https://img.shields.io/badge/version-v1.0.3-8E3FD8?style=for-the-badge)](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.3)
+[![Version](https://img.shields.io/badge/version-v1.0.4-8E3FD8?style=for-the-badge)](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.4)
 [![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](#-system-requirements)
 [![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](#-built-with)
 [![Avalonia UI](https://img.shields.io/badge/Avalonia%20UI-12-8B44AC?style=for-the-badge)](#-built-with)
@@ -20,7 +20,7 @@
 
 <br>
 
-[![Download](https://img.shields.io/badge/Download-v1.0.3%20for%20Windows-8E3FD8?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/download/v1.0.3/FuxionAnime-Setup-1.0.3.exe)
+[![Download](https://img.shields.io/badge/Download-v1.0.3%20for%20Windows-8E3FD8?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/download/v1.0.4/FuxionAnime-Setup-1.0.4.exe)
 [![Website](https://img.shields.io/badge/Website-fuxion.stream-C77DFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.fuxion.stream)
 [![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jmxarTgCAK)
 [![Telegram](https://img.shields.io/badge/Telegram-FuxionDev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FuxionDev)
@@ -58,7 +58,7 @@
 
 ## 📦 Installation
 
-1. Open the **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases)** page and pick **[v1.0.*](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.3)**, or press the **Download** button above.
+1. Open the **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases)** page and pick **[v1.0.*](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.4)**, or press the **Download** button above.
 2. Download **`FuxionAnime-Setup-1.0.*.exe`**.
 3. Run the installer. Windows SmartScreen may say *"Windows protected your PC"* because the installer is not code-signed yet: click **More info → Run anyway**.
 4. Choose your language (English / Русский) and click **Install**. No administrator rights are required: the app installs into your user profile.
@@ -291,7 +291,7 @@ Yes, it is in development. News will be posted on the website and in our communi
 
 ## 📦 Установка
 
-1. Откройте страницу **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases)** и выберите **[v1.0.*](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.3)**, либо нажмите кнопку **Download** выше.
+1. Откройте страницу **[Releases](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases)** и выберите **[v1.0.*](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/tag/v1.0.4)**, либо нажмите кнопку **Download** выше.
 2. Скачайте **`FuxionAnime-Setup-1.0.*.exe`**.
 3. Запустите установщик. Windows SmartScreen может показать «Система Windows защитила ваш компьютер»: установщик пока не подписан цифровой подписью. Нажмите **Подробнее → Выполнить в любом случае**.
 4. Выберите язык (English / Русский) и нажмите **Установить**. Права администратора не нужны: приложение ставится в профиль пользователя.
