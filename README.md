@@ -20,7 +20,7 @@
 
 <br>
 
-[![Download](https://img.shields.io/badge/Download-v1.0.3%20for%20Windows-8E3FD8?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/download/v1.0.4/FuxionAnime-Setup-1.0.4.exe)
+[![Download](https://img.shields.io/badge/Download-v1.0.4%20for%20Windows-8E3FD8?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/Fuxion-labs/Fuxion-Anime-Win-Public/releases/download/v1.0.4/FuxionAnime-Setup-1.0.4.exe)
 [![Website](https://img.shields.io/badge/Website-fuxion.stream-C77DFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.fuxion.stream)
 [![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jmxarTgCAK)
 [![Telegram](https://img.shields.io/badge/Telegram-FuxionDev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/FuxionDev)
