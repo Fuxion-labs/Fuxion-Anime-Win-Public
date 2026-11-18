@@ -230,6 +230,8 @@ The app checks for a new version on start and every few hours. When one is avail
 
 App data lives in <code>%LOCALAPPDATA%\Fuxion</code>. Downloads go to the folder you choose in *Settings → Downloads*.
 
+</details>
+
 ## 🧱 Built with
 
 **C# / .NET 10** · **Avalonia UI 12** (MVVM) · **LibVLCSharp** · Refit · Serilog · Inno Setup
