@@ -476,6 +476,7 @@ App data lives in <code>%LOCALAPPDATA%\Fuxion</code>. Downloads go to the folder
 
 <sub>© 2026 Fuxion Labs · All Rights Reserved · Все права защищены</sub>
 
+
 <a href="#en">English ⬆</a>
 
 </div>
